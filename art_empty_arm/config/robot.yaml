@@ -4,3 +4,7 @@ arms:
     gripper_link: empty
     capabilities:
       get_ready: yes
+    name:
+      cs_CZ: Rameno
+      en_US: Arm
+    idx: 0
