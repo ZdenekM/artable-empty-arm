@@ -1,0 +1,20 @@
+robot_id: debug
+arms:
+  arm_1:
+    gripper_link: arm_1_link
+    capabilities:
+      pick_place: yes
+      drill: yes
+      interactive_mode: yes
+      manipulation: yes
+      move_to_user: yes
+      get_ready: yes
+  arm_2:
+    gripper_link: arm_2_link
+    capabilities:
+      pick_place: yes
+      drill: yes
+      interactive_mode: yes
+      manipulation: yes
+      move_to_user: yes
+      get_ready: yes
