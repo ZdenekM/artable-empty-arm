@@ -1,2 +1,2 @@
-# artable-empty-arm
-Dummy "robot" for ARTable setups without robot
+# arcor-empty-arm
+Dummy "robot" for ARCOR setups without robot
