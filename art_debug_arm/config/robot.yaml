@@ -2,6 +2,9 @@ robot_id: debug
 arms:
   arm_1:
     gripper_link: arm_1_link
+    base_link: arm_1_base_link
+    min_range: 0.2
+    max_range: 0.4
     capabilities:
       pick_place: yes
       drill: yes
@@ -11,6 +14,9 @@ arms:
       get_ready: yes
   arm_2:
     gripper_link: arm_2_link
+    base_link: arm_2_base_link
+    min_range: 0.2
+    max_range: 0.4
     capabilities:
       pick_place: yes
       drill: yes
